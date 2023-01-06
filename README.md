@@ -66,5 +66,6 @@ peptide.seq	: Example file contains peptide sequences in simple format
 
 protein.fa	: Example file contains protein sequences in FASTA format 
 
-
+# Reference
+Sharma et al. (2021) AlgPred 2.0: an improved method for predicting allergenic<br> proteins and mapping of IgE epitopes, <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa294/5985292?fbclid=IwAR1Q-60U7U7Kkzhmb7e-J4_641Y7KiH2fSaOq4bdnaRLxmyoe-rr8J1htjA">Briefings in Bioinformatics,22(4): bbaa294.</a> 
 

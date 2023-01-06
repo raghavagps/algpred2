@@ -1,6 +1,6 @@
 # AlgPred2.0
 # Introduction
-AlgPred2.0 is developed for predicting, mapping and scanning allergen peptides. More information on AlgPred2.0 is available from its web server http://webs.iiitd.edu.in/raghava/. This page provides information about standalone version of AlgPred2.0. Please read/cite following paper for complete information including algorithm behind AlgPred 2.0.
+AlgPred2.0 is developed for predicting, mapping and scanning allergen peptides. More information on AlgPred2.0 is available from its web server http://webs.iiitd.edu.in/raghava/algpred2/ . This page provides information about standalone version of AlgPred2.0. Please read/cite following paper for complete information including algorithm behind AlgPred 2.0.
 
 **Minimum USAGE**: Minimum ussage is "algpred2.py -i peptide.fa" where peptide.fa is an input fasta file. 
 This will predict Allergenic peptides in fasta format. It will use other parameters by default. It will save output in "outfile.csv" in CSV (comma seperated variables).

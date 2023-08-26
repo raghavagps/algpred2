@@ -2,6 +2,16 @@
 # Introduction
 AlgPred2.0 is developed for predicting, mapping and scanning allergen peptides. More information on AlgPred2.0 is available from its web server http://webs.iiitd.edu.in/raghava/algpred2/ . This page provides information about standalone version of AlgPred2.0. Please read/cite following paper for complete information including algorithm behind AlgPred 2.0.
 
+## PIP installation
+The pip version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install algpred2
+```
+To know about the available option for the pip package, type the following command:
+```
+algpred2 -h
+```
+
 **Minimum USAGE**: Minimum ussage is "algpred2.py -i peptide.fa" where peptide.fa is an input fasta file. 
 This will predict Allergenic peptides in fasta format. It will use other parameters by default. It will save output in "outfile.csv" in CSV (comma seperated variables).
 

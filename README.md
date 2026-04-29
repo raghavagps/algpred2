@@ -2,6 +2,9 @@
 # Introduction
 AlgPred2.0 is developed for predicting, mapping and scanning allergen peptides. More information on AlgPred2.0 is available from its web server http://webs.iiitd.edu.in/raghava/algpred2/ . This page provides information about standalone version of AlgPred2.0. Please read/cite following paper for complete information including algorithm behind AlgPred 2.0.
 
+## datasets folder
+Conatain all the datasets
+
 ## PIP installation
 PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
 ```

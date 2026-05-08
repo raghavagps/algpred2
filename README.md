@@ -1,7 +1,10 @@
 # AlgPred2.0
 # Introduction
 AlgPred2.0 is developed for predicting, mapping and scanning allergen peptides. More information on AlgPred2.0 is available from its web server http://webs.iiitd.edu.in/raghava/algpred2/ . This page provides information about standalone version of AlgPred2.0. Please read/cite following paper for complete information including algorithm behind AlgPred 2.0.
-
+# Reference
+Sharma et al. (2021) AlgPred 2.0: an improved method for predicting allergenic proteins and mapping of IgE epitopes, <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa294/5985292?fbclid=IwAR1Q-60U7U7Kkzhmb7e-J4_641Y7KiH2fSaOq4bdnaRLxmyoe-rr8J1htjA">Briefings in Bioinformatics,22(4): bbaa294.</a> 
+## Zenodo
+https://doi.org/10.5281/zenodo.19885421
 ## datasets folder
 Conatain all the datasets
 
@@ -79,6 +82,4 @@ peptide.seq	: Example file contains peptide sequences in simple format
 
 protein.fa	: Example file contains protein sequences in FASTA format 
 
-# Reference
-Sharma et al. (2021) AlgPred 2.0: an improved method for predicting allergenic proteins and mapping of IgE epitopes, <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa294/5985292?fbclid=IwAR1Q-60U7U7Kkzhmb7e-J4_641Y7KiH2fSaOq4bdnaRLxmyoe-rr8J1htjA">Briefings in Bioinformatics,22(4): bbaa294.</a> 
 
